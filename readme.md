@@ -18,4 +18,6 @@ Tecnico Superior recibido en la Metro, amante de la musica y de codear!
     <img src="https://img.shields.io/badge/ReactJS-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB">
     <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white">
     <img src="https://img.shields.io/badge/SASS%20&%20SCSS-hotpink.svg?style=flat&logo=SASS&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white">
 </p>
