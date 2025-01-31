@@ -5,9 +5,10 @@ Hi! I'm Luis Tapari 👋
 
 <p>Born in 🇦🇷, putting in the work to bring my ideas to life.</p>
 
-<p>Desarrollando mis habilidades como FrontEnd Developer para crear Soluciones.<br/>
-Tecnico Superior recibido en la Metro, amante de la musica y de codear!
-¿Queres trabajar conmigo? Contactame! <a href="mailto:tapari17@gmail.com"> <img align="center" src="https://img.shields.io/badge/Contact%20Me!-%23a341ff?style=flat&logo=Mail&color=%23a341ff&link=mailto%3Aulaisess%40gmail.com"></a>
+<p>Enhancing my skills as a Frontend Developer to build intuitive and efficient solutions.
+Proficient in React.js, JavaScript, TypeScript, and modern web technologies.
+Always eager to learn, improve, and collaborate on exciting projects.
+Want to work together? Let’s connect! <a href="mailto:tapari17@gmail.com"> <img align="center" src="https://img.shields.io/badge/Contact%20Me!-%23a341ff?style=flat&logo=Mail&color=%23a341ff&link=mailto%3Aulaisess%40gmail.com"></a>
 </p>
 
 <h3>Frontend</h3>
